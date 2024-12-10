@@ -46,22 +46,19 @@ The CIFAR-10 dataset consists of:
 - numpy
 - matplotlib (for visualization)
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/AlexNet-CIFAR10.git
-cd AlexNet-CIFAR10
-pip install -r requirements.txt
-```
+<!-- ## Installation -->
+<!---->
+<!-- ```bash -->
+<!-- git clone https://github.com/yourusername/AlexNet-CIFAR10.git -->
+<!-- cd AlexNet-CIFAR10 -->
+<!-- pip install -r requirements.txt -->
+<!-- ``` -->
 
 ## Usage
 
 ```python
-# Train the model
-python train.py
-
-# Test the model
-python test.py
+# Train and Test the model
+python main.py
 ```
 
 ## Key Modifications from Original AlexNet
