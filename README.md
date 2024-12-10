@@ -1,4 +1,3 @@
-```markdown
 # AlexNet-CIFAR10
 
 A PyTorch implementation of a modified AlexNet architecture optimized for the CIFAR-10 dataset. This project adapts the revolutionary AlexNet architecture (Krizhevsky et al., 2012) to work with smaller 32x32 images, making it suitable for CIFAR-10 classification tasks.
@@ -81,4 +80,3 @@ MIT
 
 - Original AlexNet paper: "ImageNet Classification with Deep Convolutional Neural Networks" by Krizhevsky et al.
 - CIFAR-10 dataset: Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
-```
